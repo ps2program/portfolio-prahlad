@@ -1,9 +1,9 @@
 import profileImage from '../../images/profile.jpg';
-import { useContext } from 'react';
-import AboutMeContext from '../../context/AboutMeContext';
+// import { useContext } from 'react';
+// import AboutMeContext from '../../context/AboutMeContext';
 
 const AboutMeBio = () => {
-	const { aboutMe } = useContext(AboutMeContext);
+	// const { aboutMe } = useContext(AboutMeContext);
 
 	return (
 		<div className="block sm:flex sm:gap-10 mt-10 sm:mt-20">
