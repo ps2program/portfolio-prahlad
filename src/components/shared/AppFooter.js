@@ -4,34 +4,41 @@ import {
 	FiInstagram,
 	FiFeather,
 	FiBook,
+	FiLinkedin,
+	FiFacebook,
 } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
 
 const socialLinks = [
 	{
 		id: 1,
-		icon: <FiGithub />,
-		url: 'https://github.com/realstoman',
+		icon: <FiLinkedin />,
+		url: 'https://www.linkedin.com/in/prahlad-sahu-602930150/',
 	},
 	{
 		id: 2,
-		icon: <FiTwitter />,
-		url: 'https://twitter.com/realstoman',
+		icon: <FiGithub />,
+		url: 'https://github.com/ps2program',
 	},
 	{
 		id: 3,
-		icon: <FiBook />,
-		url: 'https://stoman.medium.com',
+		icon: <FiTwitter />,
+		url: 'https://x.com/home',
 	},
 	{
 		id: 4,
 		icon: <FiInstagram />,
-		url: 'https://instagram.com/realstoman',
+		url: 'https://www.linkedin.com/in/prahlad-sahu-602930150/',
 	},
 	{
 		id: 5,
+		icon: <FiFacebook />,
+		url: 'https://www.facebook.com/ps2prahlad',
+	},
+	{
+		id: 6,
 		icon: <FiFeather />,
-		url: 'https://behance.net/realstoman',
+		url: 'https://www.linkedin.com/in/prahlad-sahu-602930150/',
 	},
 ];
 
@@ -64,20 +71,20 @@ const AppFooter = () => {
 				{/* Footer copyright start */}
 				<div className="flex justify-center items-center text-center">
 					<div className="text-lg text-ternary-dark dark:text-ternary-light">
-						&copy; 2021
+						&copy; 2024
 						<Link
-							to="https://github.com/realstoman/react-tailwindcss-portfolio"
+							to="https://prahlad.pro/"
 							className="hover:underline ml-1"
 						>
-							React & TailwindCSS Portfolio
+							Prahlad Sahu
 						</Link>
 						.
 						<Link
-							to="https://stoman.me"
+							to="https://prahlad.pro/"
 							target="__blank"
 							className="text-secondary-dark dark:text-secondary-light font-medium uppercase hover:underline ml-1"
 						>
-							Stoman
+							 | Prahlad
 						</Link>
 					</div>
 				</div>
