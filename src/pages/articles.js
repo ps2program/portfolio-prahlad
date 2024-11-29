@@ -12,8 +12,8 @@ const About = () => {
 			>
 				{/* Embed the external website using iframe */}
 				<iframe
-					src="https://techflix-ps.netlify.app/"
-					title="Techflix"
+					src="https://prahlad.blog/low%20level%20system%20design/2.splidwise_lld/"
+					title="Prahlad.blog"
 					className="w-full h-screen border-none"
 					allowFullScreen
 				></iframe>
