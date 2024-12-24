@@ -23,7 +23,7 @@ const ProjectInfo = () => {
 									>
 										<span>{info.title}: </span>
 										<a
-											href="https://prahlad.pro/"
+											href="https://generative-system-design.onrender.com/"
 											className={
 												info.title === 'Website' ||
 												info.title === 'Phone'
