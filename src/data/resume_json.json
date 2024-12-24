@@ -1,0 +1,187 @@
+{
+    "basics": {
+      "url": {
+        "href": "https://prahlad.pro",
+        "label": ""
+      },
+      "name": "Prahlad Sahu",
+      "email": "ps2programming@gmail.com",
+      "phone": "9644180202",
+      "headline": "Generative AI Engineer | M.Tech AI/ML | Full-Stack Developer at Dassault Systèmes | Ex-ISRO Intern | Specialized in LLMs & FEA",
+      "location": "Pune",
+      "profiles": [
+        {
+          "network": "Linkedin",
+          "url": "https://www.linkedin.com/in/prahlad-sahu-602930150/"
+        },
+        {
+          "network": "GitHub",
+          "url": "https://github.com/ps2program"
+        }
+      ]
+    },
+    "summary": {
+      "id": "summary",
+      "name": "Summary",
+      "content": "A results-driven Generative AI & Full Stack Engineer with 4 years of experience in building innovative software solutions. Specializes in integrating AI workflows, Generative AI, and Full Stack Development to create scalable applications. Passionate about using large language models (LLMs) to drive user-centered design in complex applications. Collaborative experience with top-tier organizations like ISRO and a patent holder for GSLV Mark-III."
+    },
+    "skills": {
+      "id": "skills",
+      "name": "Skills",
+      "items": [
+        {
+          "name": "Programming Languages",
+          "description": "JavaScript (Expert), C++ (Expert), Python (Intermediate), C# (Intermediate)"
+        },
+        {
+          "name": "Web Development",
+          "description": "Full Stack Development (React, Angular, Node.js, Django, FastAPI)"
+        },
+        {
+          "name": "Generative AI & ML",
+          "description": "Large Language Models (LLMs), Machine Learning Models for Simulation Data, AI Workflows"
+        },
+        {
+          "name": "Tools & Technologies",
+          "description": "Git, Docker, Kubernetes, REST APIs, SQL & NoSQL Databases, CI/CD"
+        },
+        {
+          "name": "Simulation & Software Development",
+          "description": "FEA Simulations, Simulation Software, Agile Practices, Problem Solving, Algorithm Design"
+        },
+        {
+          "name": "Collaboration & Achievements",
+          "description": "Patent holder for GSLV Mark-III, Extensive collaboration with ISRO"
+        }
+      ]
+    },
+    "experience": {
+      "id": "experience",
+      "name": "Experience",
+      "items": [
+        {
+          "company": "Dassault Systèmes",
+          "position": "Sr. Software Engineer - GenAI & Full Stack",
+          "date": "March 21 - Present",
+          "location": "Pune",
+          "summary": [
+            "Led the development of cutting-edge Generative AI solutions, integrating AI models into full-stack applications.",
+            "Designed and implemented scalable web applications, focusing on AI-powered chatbots and advanced simulation software.",
+            "Collaborated with cross-functional teams, ensuring seamless integration of AI models into backend and frontend systems.",
+            "Deployed applications using FastAPI, ensuring high-performance and scalability."
+          ]
+        }
+      ]
+    },
+    "projects": {
+      "id": "projects",
+      "name": "Projects",
+      "items": [
+        {
+          "name": "Chat Application Using LLMs and Generative AI",
+          "summary": [
+            "Designed an intelligent chat app with LLMs for natural, context-driven conversations.",
+            "Integrated Generative AI workflows to automate responses and enhance user experience.",
+            "Deployed using FastAPI, ensuring scalable architecture and high performance."
+          ]
+        },
+        {
+          "name": "Web Application for Simulation Software (Competitor to Ansys Discovery)",
+          "summary": [
+            "Built a comprehensive web platform for mechanical, thermal, and fluid simulations, competing with Ansys Discovery.",
+            "JavaScript for the frontend and C++ for the backend to optimize simulation processing.",
+            "Hosted on an in-house server, providing secure and reliable access to simulations."
+          ]
+        },
+        {
+          "name": "AI-Insight",
+          "summary": [
+            "Developed a machine learning model to predict simulation outcomes, reducing the need for re-running FEA calculations.",
+            "Improved simulation efficiency and accuracy by leveraging historical simulation data.",
+            "Integrated the model into existing workflows, significantly boosting productivity."
+          ]
+        }
+      ]
+    },
+    "education": {
+      "id": "education",
+      "name": "Education",
+      "items": [
+        {
+          "institution": "BITS Pilani - Work Integrated Learning Programmes",
+          "studyType": "Masters of Technology in AI/AL",
+          "date": "2024 – 2026"
+        },
+        {
+          "institution": "National Institute of Technology Raipur",
+          "studyType": "B.Tech in Mechanical Engineering",
+          "score": "8.82 GPA",
+          "date": "2016 – 2020"
+        },
+        {
+          "institution": "Jawahar Navodaya Vidyalaya (JNV)",
+          "studyType": "12th in Mathematics",
+          "score": "88.5%",
+          "date": "2008 – 2015",
+          "summary": "School Captain"
+        }
+      ]
+    },
+    "awards": {
+      "id": "awards",
+      "name": "Awards",
+      "items": [
+        {
+          "title": "Out of Box Thinker",
+          "awarder": "Dassault Systèmes",
+          "date": "March 2024",
+          "summary": "Recognized for innovative problem-solving, delivering impactful and creative solutions that pushed the boundaries of traditional approaches."
+        }
+      ]
+    },
+    "publications": {
+      "id": "publications",
+      "name": "Publications",
+      "items": [
+        {
+          "title": "Common Bulkhead Tank Design for Cryogenic Stage of an Indian Launch Vehicle",
+          "publisher": "Defence Science Journal",
+          "date": "January 2022",
+          "url": "https://www.researchgate.net/publication/357709089_Common_Bulkhead_Tank_Design_for_Cryogenic_Stage_of_an_Indian_Launch_Vehicle/fulltext/63982077095a6a777426e08e/Common-Bulkhead-Tank-Design-for-Cryogenic-Stage-of-an-Indian-Launch-Vehicle.pdf",
+          "summary": "Design of interstage replacement for GSLV Mark-III."
+        }
+      ]
+    },
+    "languages": {
+      "id": "languages",
+      "name": "Languages",
+      "items": [
+        {
+          "name": "JavaScript",
+          "level": "Expert"
+        },
+        {
+          "name": "C++",
+          "level": "Expert"
+        },
+        {
+          "name": "Python",
+          "level": "Intermediate"
+        },
+        {
+          "name": "C#",
+          "level": "Intermediate"
+        }
+      ]
+    },
+    "interests": {
+      "id": "interests",
+      "name": "Interests",
+      "items": [
+        {
+          "name": "Guitar & Singing"
+        }
+      ]
+    }
+  }
+  

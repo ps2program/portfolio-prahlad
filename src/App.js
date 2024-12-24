@@ -4,6 +4,7 @@ import AppFooter from './components/shared/AppFooter';
 import AppHeader from './components/shared/AppHeader';
 import './css/App.css';
 import About from './pages/AboutMe';
+import Certificates from './pages/Certificates';
 import Articles from './pages/articles'; // Adjust this to match the file's exact name
 import Contact from './pages/Contact';
 import Home from './pages/Home';
@@ -30,6 +31,7 @@ function App() {
 						<Route path="about" element={<About />} />
 						<Route path="articles" element={<Articles />} />
 						<Route path="contact" element={<Contact />} />
+						<Route path="/certificates" element={<Certificates />} />
 					</Routes>
 					<AppFooter />
 				</Router>
