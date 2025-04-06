@@ -6,17 +6,19 @@ const About = () => {
 		<AboutMeProvider>
 			<motion.div
 				initial={{ opacity: 0 }}
-				animate={{ opacity: 1, delay: 1 }}
+				animate={{ opacity: 1 }}
 				exit={{ opacity: 0 }}
-				className="container mx-auto"
+				className="container mx-auto text-center py-20"
 			>
-				{/* Embed the external website using iframe */}
-				<iframe
-					src="https://prahlad.blog/low%20level%20system%20design/2.splidwise_lld/"
-					title="Prahlad.blog"
-					className="w-full h-screen border-none"
-					allowFullScreen
-				></iframe>
+				<h1 className="text-3xl font-bold mb-6">Visit My Blog</h1>
+				<a
+					href="https://prahlad.blog/"
+					target="_blank"
+					rel="noopener noreferrer"
+					className="text-blue-600 underline text-xl hover:text-blue-800"
+				>
+					Open prahlad.blog in a new tab
+				</a>
 			</motion.div>
 		</AboutMeProvider>
 	);
